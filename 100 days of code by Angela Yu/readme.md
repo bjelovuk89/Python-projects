@@ -1,1 +1,2 @@
-
+Several hands-on guded Python projects as part of Dr. Angela Yu’s "100 Days of Code" Udemy series.
+The projects highlighted here include several of the more advanced and capstone-level builds from the course.
